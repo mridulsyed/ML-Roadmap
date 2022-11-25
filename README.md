@@ -38,6 +38,9 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         1. Matplotlib - https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_
         2. Seaborn - https://www.youtube.com/playlist?list=PLKnIA16_RmvbB1bFGjvS6a8T0mnqawejo
 
+4. #### Git and Github (Est. time 2 Days)
+        1. Git - https://www.youtube.com/watch?v=wQA_vWo-WtA
+
 5. #### Descriptive Statistics (Est. time 4 Days)
         1. Statistics Playlist - https://www.youtube.com/watch?v=tPhzDKjQBpo&list=PLKnIA16_RmvbVrE0eZO2bCaFln6jaNq-1
 
