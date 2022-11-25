@@ -145,8 +145,8 @@ The goal of this level is to learn the core machine learning concepts and algori
 
 The goal of this level is to get you introduced to the practical side of machine learning. What you learn at this level would really help you out there in the wild.
 
-1. #### Data Acquisition (Est. time - 2 Days) (Viewed ✔️. Coded ❌)
-        1. Web Scraping - https://www.youtube.com/watch?v=8NOdgjC1988
+1. #### Data Acquisition (Est. time - 2 Days) 
+        1. Web Scraping - https://www.youtube.com/watch?v=8NOdgjC1988 (Viewed ✔️. Coded ❌)
                 * Project - Create a Pandas dataframe of Indian cuisines from some website using web scraping.
         2. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc
                 * Project - Create a Pandas dataframe of movies from TMDB API.
