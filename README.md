@@ -151,7 +151,7 @@ The goal of this level is to get you introduced to the practical side of machine
         2. Fetch data from API - https://www.youtube.com/watch?v=roTZJaxjnJc (Viewed✔️ Coded❌)
                 * Project - Create a Pandas dataframe of movies from TMDB API.
 3. #### Working with missing values (Est. time - 3 Days)
-        1. Complete Case Analysis - https://www.youtube.com/watch?v=aUnNWZorGmk
+        1. Complete Case Analysis - https://www.youtube.com/watch?v=aUnNWZorGmk (Viewed✔️ Coded❌)
         2. Handling missing numerical data - https://www.youtube.com/watch?v=mCL2xLBDw8M
         3. Handling missing categorical data - https://www.youtube.com/watch?v=l_Wip8bEDFQ
         4. Missing indicator - https://www.youtube.com/watch?v=Ratcir3p03w
